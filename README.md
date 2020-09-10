@@ -2,7 +2,7 @@
 
 JavaScript 高级程序设计第三版核心知识点总结
 
-[在线阅读]()
+[在线阅读](https://mypridelife.github.io/Professional-JavaScript-for-Web-Developers/#/)
 
 进度如下：
 
